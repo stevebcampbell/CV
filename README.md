@@ -4,7 +4,7 @@ This repository hosts my professional CV/Resume using GitHub Pages.
 
 ## View Online
 
-Visit the live CV at: https://[your-github-username].github.io/CV/
+Visit the live CV at: https://stevebcampbell.github.io/CV/
 
 ## About
 
